@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swa');
+@import url('https://fonts.googleapis.com/css?family=Squada+One&display=swap');
+.body {
+    font-size: 1.2em;
+}
+
+.text-title {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 8em;
+    color: #ffffff;
+}
+
+.text-subtitle {
+    font-family: 'Squada One', cursive;
+    font-size: 2em;
+    color: #ffffff;
+}
+
+.bg-title {
+    background-image: linear-gradient(to bottom right, #102a56, #407384);
+}
