@@ -19,3 +19,8 @@
 .bg-title {
     background-image: linear-gradient(to bottom right, #102a56, #407384);
 }
+
+.mdi-fac {
+    color: #407384;
+    font-size: 200px;
+}
