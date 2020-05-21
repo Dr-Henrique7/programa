@@ -12,7 +12,7 @@
 
 .text-title-xs {
     font-family: 'Luckiest Guy', cursive;
-    font-size: 8em;
+    font-size: 5em;
     color: #ffffff;
 }
 
@@ -24,7 +24,7 @@
 
 .text-subtitle-xs {
     font-family: 'Squada One', cursive;
-    font-size: 2em;
+    font-size: 1em;
     color: #ffffff;
 }
 
@@ -34,6 +34,27 @@
 
 .bg-title-xs {
     background-image: linear-gradient(to bottom right, #102a56, #407384);
+}
+
+.bg-nav{
+    background-image: linear-gradient(to bottom right, #102a56, #407384);
+}
+
+.text-imgt{
+    z-index: 99;
+    position: absolute;
+}
+
+.tam{
+    width: 100%;
+    height: 580px;
+    background-color: none;;
+}
+
+.tamimg{
+    width: 100%;
+    height: 566px;
+    background-color: none;;
 }
 
 .mdi-fac {
